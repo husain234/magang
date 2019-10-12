@@ -2,7 +2,7 @@
 	/**
 	 * 
 	 */
-	class C_dasbord extends CI_Controller {
+	class C_dasboard extends CI_Controller {
 		
 		
 		}
