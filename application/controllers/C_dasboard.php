@@ -10,7 +10,7 @@
 		public function index() {
 
 			
-				$this->load->view('v_dasbord');
+				$this->load->view('v_dasboard');
 			
 			}
 			
